@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2.0",
+  "versionCode": 3,
+  "versionName": "1.2.1",
   "apkUrl": "https://raw.githubusercontent.com/MauriciovzM/biokakau-update/main/BioKakau.apk",
-  "changelog": "Versão oficial estável com Câmera de Aula, Resumos Automáticos, Relatórios em PDF, Foto de Perfil Customizada, Lousa Interativa e Agenda de Aulas Online/Presenciais!"
+  "changelog": "Correção de conexão com o professor IA (erro 503) e melhorias de estabilidade."
 }
