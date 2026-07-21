@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "1.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/MauriciovzM/biokakau-update/main/BioKakau.apk",
+  "apkUrl": "https://raw.githubusercontent.com/MauriciovzM/biokakau-update/master/BioKakau.apk",
   "changelog": "Correção de conexão com o professor IA (erro 503) e melhorias de estabilidade."
 }
